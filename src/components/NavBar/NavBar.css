@@ -1,0 +1,10 @@
+.active-menu{
+    border-bottom: 2px solid red;
+}
+.brand{
+    padding: 10px;
+    border: 1px solid gray;
+}
+.navbar-dark .navbar-toggler-icon{
+    color: aqua;
+}

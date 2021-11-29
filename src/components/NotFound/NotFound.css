@@ -1,0 +1,10 @@
+.not-found{
+    background-image: url(../../../src/Media/404.gif);
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+ .btn-custom{
+    padding-bottom: 80px;
+}

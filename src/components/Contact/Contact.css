@@ -1,0 +1,9 @@
+.contact-left h5{
+    line-height: 40px;
+}
+.contact-left{
+    height: 500px;
+    background-color: black;
+    color: white;
+    background-image:url(https://images.unsplash.com/photo-1583587446563-7b9d93c74ae5?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80);
+}
